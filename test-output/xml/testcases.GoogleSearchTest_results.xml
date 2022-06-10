@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="POMexample"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.741">
+    <properties></properties>
+
+
+
+            <testcase
+                name="search_product_on_google_test"
+                time="6.741"
+                classname="testcases.GoogleSearchTest">
+            </testcase>
+</testsuite>

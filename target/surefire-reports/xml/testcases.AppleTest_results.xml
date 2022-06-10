@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test suite"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="48.952">
+    <properties></properties>
+
+
+
+            <testcase
+                name="click_On_Bag_test"
+                time="23.095"
+                classname="testcases.AppleTest">
+            </testcase>
+            <testcase
+                name="login_into_with_invalid_pswd_test"
+                time="25.857"
+                classname="testcases.AppleTest">
+            </testcase>
+</testsuite>
