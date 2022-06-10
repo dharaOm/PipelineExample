@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="suite" duration-ms="85898" started-at="2022-06-10T14:50:58Z" finished-at="2022-06-10T14:52:24Z">
+  <suite name="suite" duration-ms="73033" started-at="2022-06-10T18:43:17Z" finished-at="2022-06-10T18:44:30Z">
     <groups>
     </groups>
-    <test name="test suite" duration-ms="85898" started-at="2022-06-10T14:50:58Z" finished-at="2022-06-10T14:52:24Z">
+    <test name="test suite" duration-ms="73033" started-at="2022-06-10T18:43:17Z" finished-at="2022-06-10T18:44:30Z">
       <class name="testcases.AppleTest">
-        <test-method status="PASS" signature="setUpReport()[pri:0, instance:testcases.AppleTest@56235b8e]" name="setUpReport" is-config="true" duration-ms="249" started-at="2022-06-10T14:50:58Z" finished-at="2022-06-10T14:50:58Z">
+        <test-method status="PASS" signature="setUpReport()[pri:0, instance:testcases.AppleTest@56235b8e]" name="setUpReport" is-config="true" duration-ms="161" started-at="2022-06-10T18:43:17Z" finished-at="2022-06-10T18:43:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpReport -->
-        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:testcases.AppleTest@56235b8e]" name="setUpBrowser" is-config="true" duration-ms="36928" started-at="2022-06-10T14:50:58Z" finished-at="2022-06-10T14:51:35Z">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:testcases.AppleTest@56235b8e]" name="setUpBrowser" is-config="true" duration-ms="22703" started-at="2022-06-10T18:43:17Z" finished-at="2022-06-10T18:43:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method status="PASS" signature="click_On_Bag_test()[pri:1, instance:testcases.AppleTest@56235b8e]" name="click_On_Bag_test" duration-ms="23095" started-at="2022-06-10T14:51:35Z" finished-at="2022-06-10T14:51:58Z">
+        <test-method status="PASS" signature="click_On_Bag_test()[pri:1, instance:testcases.AppleTest@56235b8e]" name="click_On_Bag_test" duration-ms="26941" started-at="2022-06-10T18:43:39Z" finished-at="2022-06-10T18:44:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- click_On_Bag_test -->
-        <test-method status="PASS" signature="login_into_with_invalid_pswd_test()[pri:2, instance:testcases.AppleTest@56235b8e]" name="login_into_with_invalid_pswd_test" duration-ms="25857" started-at="2022-06-10T14:51:58Z" finished-at="2022-06-10T14:52:24Z">
+        <test-method status="PASS" signature="login_into_with_invalid_pswd_test()[pri:2, instance:testcases.AppleTest@56235b8e]" name="login_into_with_invalid_pswd_test" duration-ms="23373" started-at="2022-06-10T18:44:06Z" finished-at="2022-06-10T18:44:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_into_with_invalid_pswd_test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AppleTest@56235b8e]" name="tearDown" is-config="true" duration-ms="974" started-at="2022-06-10T14:52:24Z" finished-at="2022-06-10T14:52:25Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AppleTest@56235b8e]" name="tearDown" is-config="true" duration-ms="1840" started-at="2022-06-10T18:44:30Z" finished-at="2022-06-10T18:44:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

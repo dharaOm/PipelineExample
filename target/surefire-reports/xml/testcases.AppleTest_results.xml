@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="48.952">
+           time="50.314">
     <properties></properties>
 
 
 
             <testcase
                 name="click_On_Bag_test"
-                time="23.095"
+                time="26.941"
                 classname="testcases.AppleTest">
             </testcase>
             <testcase
                 name="login_into_with_invalid_pswd_test"
-                time="25.857"
+                time="23.373"
                 classname="testcases.AppleTest">
             </testcase>
 </testsuite>
